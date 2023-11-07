@@ -1,2 +1,2 @@
 # ArcPy-Scripts
-Collection of my ArcPy scripts
+A collection of my ArcPy scripts for UEP 235: Advanced GIS assignments
